@@ -1,7 +1,11 @@
+---
 layout: post
 title: "Apple Products"
 date: 2023-01-25 10:56:00 -0400
-categories: apple technology
+categories:
+  - apple
+  - technology
+---
 
 # Apple Products
 
