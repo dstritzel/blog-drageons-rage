@@ -1,9 +1,6 @@
 domain: blog.dragons-rage.com
 url: https://blog.dragons-rage.com
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
-
+baseurl:
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale                   : "en-US"
@@ -12,7 +9,6 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Arduke"
 description              : "Another stimky blog"
-
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
